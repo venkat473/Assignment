@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38284" started-at="2019-07-10T06:25:38Z" finished-at="2019-07-10T06:26:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38284" started-at="2019-07-10T06:25:38Z" finished-at="2019-07-10T06:26:16Z">
+      <class name="prog1.WhatsAppAssignment">
+        <test-method status="PASS" signature="launch()[pri:0, instance:prog1.WhatsAppAssignment@34340fab]" name="launch" is-config="true" duration-ms="21865" started-at="2019-07-10T11:55:38Z" finished-at="2019-07-10T11:56:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="execution()[pri:0, instance:prog1.WhatsAppAssignment@34340fab]" name="execution" duration-ms="14259" started-at="2019-07-10T11:56:00Z" finished-at="2019-07-10T11:56:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execution -->
+        <test-method status="PASS" signature="closeSite()[pri:0, instance:prog1.WhatsAppAssignment@34340fab]" name="closeSite" is-config="true" duration-ms="2143" started-at="2019-07-10T11:56:14Z" finished-at="2019-07-10T11:56:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSite -->
+      </class> <!-- prog1.WhatsAppAssignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
